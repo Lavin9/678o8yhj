@@ -4,4 +4,4 @@ get_mean <- function(x){
   var <- var(x)
   cat("the  mean of the vector is", mean,"the var is ",var,"\n")
   return (c(mean,var))} 
-SSSSSSSSSSSSS
+111111
